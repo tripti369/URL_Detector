@@ -1,0 +1,13 @@
+# Python environments and generated files
+.venv/
+venv/
+myvenv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local secrets and editor/OS files
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
